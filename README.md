@@ -25,6 +25,7 @@ Campaign's Requests page
 ## Tech Stack
 
 - Ethereum
+- Web3JS
 - ReactJS
 - NextJS
 - Mocha
