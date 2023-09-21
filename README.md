@@ -1,6 +1,6 @@
-# Kickstarter
+# CrowdCoin
 
-The application is a kickstarter alike platform, built using Ethereum. With its smart contract functionality, campaign funds will only be deployed to vendors who are approved by the campaign contributors. This prevents misappropriation of campaign funds.
+CrowdCoin is a kickstarter alike crowdfunding platform, built using Ethereum. With its smart contract functionality, campaign funds will only be deployed to vendors who are approved by the campaign contributors. This prevents misappropriation of campaign funds.
 
 ## App Features
 
